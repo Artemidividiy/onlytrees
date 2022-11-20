@@ -1,0 +1,1 @@
+enum NoteType { String, AR }
